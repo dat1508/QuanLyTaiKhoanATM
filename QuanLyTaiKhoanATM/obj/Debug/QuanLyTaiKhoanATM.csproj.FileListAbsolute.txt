@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\QuanLyTaiKhoanATM.exe.config
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\QuanLyTaiKhoanATM.exe
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\QuanLyTaiKhoanATM.pdb
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.fMain.resources
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.exe
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.pdb
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.Forms.fLogin.resources
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QuanLyTaiKhoanATM\QuanLyTaiKhoanATM\obj\Debug\QuanLyTaiKhoanATM.Forms.fManageATM.resources
