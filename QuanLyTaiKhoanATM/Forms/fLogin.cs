@@ -43,7 +43,9 @@ namespace QuanLyTaiKhoanATM.Forms
             {
                 btnLogin.PerformClick();
             }
-            this.Close();
+            btnLogin.PerformClick();
+            btnLogin.PerformClick();
+            btnLogin.PerformClick();
         }
     }
 }

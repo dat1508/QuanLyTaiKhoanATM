@@ -77,6 +77,12 @@
     <Compile Include="Forms\fManageATM.Designer.cs">
       <DependentUpon>fManageATM.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\frmtest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmtest.Designer.cs">
+      <DependentUpon>frmtest.cs</DependentUpon>
+    </Compile>
     <Compile Include="Helpers\Service.cs" />
     <Compile Include="Helpers\MD5.cs" />
     <Compile Include="Helpers\SystemData.cs" />
@@ -90,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\fManageATM.resx">
       <DependentUpon>fManageATM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmtest.resx">
+      <DependentUpon>frmtest.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
