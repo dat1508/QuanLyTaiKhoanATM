@@ -35,7 +35,6 @@ namespace QuanLyTaiKhoanATM.Forms
             MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             thongBaoDangNhap(SystemData.Current.Fullname);
             this.Close();
-            this.Close();
         }
 
         private void txtUsername_KeyDown(object sender, KeyEventArgs e)
