@@ -58,6 +58,7 @@ namespace QuanLyTaiKhoanATM.Forms
             Service.AddHistory(history);
             Service.Edit(SystemData.Current.IdUser, int.Parse(txtMoney.Text));
             LoadData();
+            LoadData();
         }
     }
 }

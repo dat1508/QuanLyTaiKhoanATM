@@ -77,6 +77,12 @@
     <Compile Include="Forms\fManageATM.Designer.cs">
       <DependentUpon>fManageATM.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\frmtest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmtest.Designer.cs">
+      <DependentUpon>frmtest.cs</DependentUpon>
+    </Compile>
     <Compile Include="Helpers\Service.cs" />
     <Compile Include="Helpers\MD5.cs" />
     <Compile Include="Helpers\SystemData.cs" />
